@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TrueScreen demo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Archivo:wght@400;600;700&family=IBM+Plex+Mono:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="wrap topbar-in">
+    <a class="logo" href="/">TRUE<span>SCREEN</span></a>
+    <nav><a class="btn btn-ink" href="/">Back to home</a></nav>
+  </div>
+</header>
+
+<main class="wrap demo">
+
+{% if error %}
+<div class="notice notice-err mono">{{ error }}</div>
+{% endif %}
+
+<section class="panel">
+  <div class="panel-head">
+    <span class="step mono">step 1</span>
+    <h2>Build the rubric from a job description</h2>
+  </div>
+  {% if rubric %}
+    <p class="ok-line">Rubric ready for <strong>{{ rubric.role }}</strong> —
+    weights sum to 100.</p>
+    <div class="rubric-rows">
+      {% for c in rubric.criteria %}
+      <div class="rubric-row">
+        <span class="mono rid">{{ c.id }}</span>
+        <span class="rname">{{ c.name }}</span>
+        <span class="rweight mono">w={{ c.weight }}</span>
+      </div>
+      {% endfor %}
+    </div>
+    <details class="rebuild">
+      <summary>Rebuild with a different JD</summary>
+      <form method="post" action="/build_rubric">
+        <textarea name="jd" rows="10">{{ sample_jd }}</textarea>
+        <button class="btn btn-pink" type="submit">Rebuild rubric</button>
+      </form>
+    </details>
+  {% else %}
+    <form method="post" action="/build_rubric">
+      <textarea name="jd" rows="12" placeholder="Paste a job description...">{{ sample_jd }}</textarea>
+      <button class="btn btn-pink" type="submit">Build rubric</button>
+    </form>
+  {% endif %}
+</section>
+
+<section class="panel">
+  <div class="panel-head">
+    <span class="step mono">step 2</span>
+    <h2>Upload a resume PDF</h2>
+  </div>
+  {% if not rubric %}
+    <p class="muted">Build a rubric first — scoring needs one.</p>
+  {% else %}
+  <form method="post" action="/score" enctype="multipart/form-data" class="upload-form">
+    <input class="mono" type="file" name="resume" accept="application/pdf" required>
+    <button class="btn btn-ink" type="submit">Score with evidence</button>
+  </form>
+  <p class="muted">Scanned/image PDFs are rejected honestly — no OCR guessing.</p>
+  {% endif %}
+</section>
+
+{% if result %}
+<section class="panel result">
+  <div class="panel-head">
+    <span class="step mono">audit</span>
+    <h2>{{ result.filename }}
+      {% if result.candidate %} · {{ result.candidate }}{% endif %}</h2>
+  </div>
+
+  <div class="total-line">
+    <span class="total-n">{{ result.total_score_0_5 if result.total_score_0_5 is not none else '—' }}</span>
+    <span class="total-l">/ 5 weighted total<br>
+      <span class="mono">computed in Python, not by the LLM</span></span>
+  </div>
+
+  {% for pc in result.per_criterion %}
+  <div class="audit-card wide">
+    <div class="audit-head">
+      <span class="crit">{{ pc.criterion_id }} · {{ pc.criterion }}
+        <span class="mono w">w={{ pc.weight }}</span></span>
+      <span class="score {{ 'bad' if pc.status == 'evidence_fabricated' else ('mute' if pc.score is none else 'good') }}">
+        {{ pc.score if pc.score is not none else '∅' }} / 5</span>
+    </div>
+    {% for q in pc.evidence %}
+      <blockquote class="quote">“{{ q }}”</blockquote>
+    {% endfor %}
+    {% if pc.reasoning %}<p class="reason">{{ pc.reasoning }}</p>{% endif %}
+    {% if pc.status == 'ok' %}
+      <div class="stamp stamp-ok">VERIFIED</div>
+    {% elif pc.status == 'ok_gapped_extraction' %}
+      <div class="stamp stamp-gap">VERIFIED · GAPPED</div>
+      <p class="stamp-note">Quote found across a two-column extraction seam.</p>
+    {% elif pc.status == 'evidence_fabricated' %}
+      <div class="stamp stamp-no">NULLIFIED</div>
+      <p class="stamp-note">Quote not found in resume — score voided.</p>
+    {% else %}
+      <div class="stamp stamp-abs">ABSTAINED</div>
+      <p class="stamp-note">No evidence found — the model declined to guess.</p>
+    {% endif %}
+  </div>
+  {% endfor %}
+</section>
+{% endif %}
+
+</main>
+
+<footer class="wrap footer">
+  <span class="mono">TrueScreen demo · every verdict above is deterministic —
+  re-run it and it stamps the same.</span>
+</footer>
+
+</body>
+</html>

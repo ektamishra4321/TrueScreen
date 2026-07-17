@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+outputs/
+telemetry/
+data/resumes/*.pdf
+.pytest_cache/
+*.csv
+read_*.txt

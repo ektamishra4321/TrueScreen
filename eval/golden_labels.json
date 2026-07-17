@@ -1,0 +1,6 @@
+[
+  {"source": "data\\resumes\\IT_21780877.pdf",
+   "human_scores": {"c1": 5, "c2": 3, "c3": 4, "c4": 4, "c5": 1}},
+  {"source": "data\\resumes\\IT_36856210.pdf",
+   "human_scores": {"c1": 3, "c2": 3, "c3": 2, "c4": 3, "c5": 1}}
+]

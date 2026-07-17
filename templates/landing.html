@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TrueScreen — scores honestly or not at all</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Archivo:wght@400;600;700&family=IBM+Plex+Mono:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="wrap topbar-in">
+    <div class="logo">TRUE<span>SCREEN</span></div>
+    <nav>
+      <a href="#guardrail">Guardrail</a>
+      <a href="#eval">Eval</a>
+      <a class="btn btn-ink" href="/demo">Open the demo</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+<section class="hero wrap">
+  <div class="hero-copy">
+    <p class="eyebrow">AI resume screener · evidence required</p>
+    <h1>Scores honestly<br>or not at all.</h1>
+    <p class="lede">Every score TrueScreen gives must cite a verbatim quote from the
+    resume — and a deterministic verifier checks the quote actually exists.
+    Fabricated evidence gets <em>nullified</em>. Missing evidence gets an
+    <em>abstention</em>, never a guess.</p>
+    <div class="hero-cta">
+      <a class="btn btn-pink" href="/demo">Screen a resume</a>
+      <a class="btn btn-ghost" href="#guardrail">How the guardrail works</a>
+    </div>
+  </div>
+
+  <div class="hero-card" aria-label="Example audit card">
+    <div class="audit-card">
+      <div class="audit-head">
+        <span class="crit">c3 · Network Troubleshooting</span>
+        <span class="score good">4 / 5</span>
+      </div>
+      <blockquote class="quote">“Manage Telecommunications and NIPR networks
+      for the Wing, GSU's, and tenant units.”</blockquote>
+      <div class="stamp stamp-ok">VERIFIED</div>
+    </div>
+    <div class="audit-card tilt">
+      <div class="audit-head">
+        <span class="crit">c5 · Automation</span>
+        <span class="score bad">0 / 5</span>
+      </div>
+      <blockquote class="quote">“Built CI/CD pipelines in Jenkins”</blockquote>
+      <div class="stamp stamp-no">NULLIFIED</div>
+      <p class="stamp-note">Quote not found in resume — score voided.</p>
+    </div>
+  </div>
+</section>
+
+<section id="guardrail" class="band band-ink">
+  <div class="wrap">
+    <h2>The guardrail, in three moves</h2>
+    <div class="grid3">
+      <div class="card">
+        <p class="card-k mono">quote</p>
+        <h3>The model must show its work</h3>
+        <p>Each criterion score requires 1–3 verbatim quotes copied
+        character-for-character from the resume. No quote, no score — the model
+        abstains instead.</p>
+      </div>
+      <div class="card">
+        <p class="card-k mono">verify</p>
+        <h3>A checker with no ML in it</h3>
+        <p>A deterministic verifier confirms every quote exists in the raw PDF
+        text. It even recognizes two-column PDF extraction scrambling —
+        marked separately, never silently.</p>
+      </div>
+      <div class="card">
+        <p class="card-k mono">stamp</p>
+        <h3>Verdicts you can audit</h3>
+        <p>Verified, gapped-extraction, nullified, or abstained — every
+        criterion carries its status. The weighted total is computed in
+        Python. The LLM does no arithmetic.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="eval" class="band">
+  <div class="wrap">
+    <h2>We publish our baseline</h2>
+    <p class="band-lede">TrueScreen ships with an eval harness. You hand-score
+    resumes as golden labels; it measures the model against you. Here is our
+    honest day-one baseline on real Kaggle resumes:</p>
+    <div class="metrics">
+      <div class="metric"><span class="metric-n">{{ eval_baseline.within_1_agreement }}</span><span class="metric-l">within-1 agreement</span></div>
+      <div class="metric"><span class="metric-n">{{ eval_baseline.mae }}</span><span class="metric-l">mean absolute error</span></div>
+      <div class="metric"><span class="metric-n">{{ eval_baseline.abstention_rate }}</span><span class="metric-l">honest abstentions</span></div>
+    </div>
+    <div class="finding">
+      <span class="mono finding-k">finding №1</span>
+      <p>{{ eval_baseline.finding }}</p>
+    </div>
+  </div>
+</section>
+
+<section class="band band-violet">
+  <div class="wrap cta-final">
+    <h2>Bring a resume. Get receipts.</h2>
+    <a class="btn btn-yellow" href="/demo">Open the demo</a>
+  </div>
+</section>
+</main>
+
+<footer class="wrap footer">
+  <span class="mono">TrueScreen · Python · pdfplumber · Gemini free tier with
+  self-healing model rotation · zero paid infrastructure</span>
+</footer>
+
+</body>
+</html>
