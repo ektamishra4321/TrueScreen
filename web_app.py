@@ -21,7 +21,7 @@ app.config["MAX_CONTENT_LENGTH"] = 5 * 1024 * 1024  # 5 MB upload cap
 OUT = Path("outputs")
 RUBRIC_PATH = OUT / "rubric.json"
 
-SAMPLE_JD = Path("sample_data/jd_it_support.md").read_text(encoding="utf-8") \
+SAMPLE_JD = Path("sample_data/jd_fpna.md").read_text(encoding="utf-8") \
     if Path("sample_data/jd_it_support.md").exists() else ""
 
 EVAL_BASELINE = {
