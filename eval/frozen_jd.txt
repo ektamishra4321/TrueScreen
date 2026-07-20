@@ -1,0 +1,4 @@
+Software Engineer (Backend / Full-stack) - 2-5 years
+We are hiring a software engineer to build and maintain production web services.
+Responsibilities: design and implement APIs and backend services; write clean, tested, maintainable code; work with relational databases; deploy and monitor services in production; collaborate with product and QA.
+Requirements: 2-5 years professional software development experience; strong programming skills in at least one of Python / Java / C# / JavaScript; experience with SQL databases; familiarity with version control (Git) and CI/CD; exposure to cloud platforms (AWS/Azure/GCP) is a plus; a degree in CS/IT or equivalent practical experience.

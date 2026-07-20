@@ -1,0 +1,59 @@
+{
+  "role": "Software Engineer (Backend / Full-stack)",
+  "criteria": [
+    {
+      "id": "c1",
+      "name": "Professional Experience",
+      "description": "Demonstrated tenure in professional software development roles.",
+      "weight": 25,
+      "signals": [
+        "2-5 years of full-time software engineering experience",
+        "Experience working in a professional team environment",
+        "History of maintaining production-level web services"
+      ]
+    },
+    {
+      "id": "c2",
+      "name": "Backend Programming Proficiency",
+      "description": "Strong technical skills in core backend languages.",
+      "weight": 25,
+      "signals": [
+        "Professional experience with Python, Java, C#, or JavaScript",
+        "Evidence of designing and implementing RESTful or internal APIs",
+        "Demonstrated ability to write unit and integration tests"
+      ]
+    },
+    {
+      "id": "c3",
+      "name": "Database Management",
+      "description": "Practical experience designing and interacting with relational databases.",
+      "weight": 20,
+      "signals": [
+        "Experience writing complex SQL queries",
+        "Experience with relational database schema design",
+        "Hands-on work with databases like PostgreSQL, MySQL, or SQL Server"
+      ]
+    },
+    {
+      "id": "c4",
+      "name": "DevOps and Tooling",
+      "description": "Competency in version control, deployment pipelines, and infrastructure.",
+      "weight": 15,
+      "signals": [
+        "Proficiency with Git for version control",
+        "Experience configuring or maintaining CI/CD pipelines",
+        "Exposure to cloud platforms such as AWS, Azure, or GCP"
+      ]
+    },
+    {
+      "id": "c5",
+      "name": "Educational Background",
+      "description": "Formal education or equivalent practical experience in computer science.",
+      "weight": 15,
+      "signals": [
+        "Degree in Computer Science, Information Technology, or related field",
+        "Evidence of equivalent practical experience in lieu of a degree"
+      ]
+    }
+  ]
+}
