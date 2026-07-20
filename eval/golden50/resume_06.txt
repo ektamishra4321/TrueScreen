@@ -1,0 +1,73 @@
+[SOURCE: Kaggle resume dataset (gauravduttakiit) | CATEGORY: DevOps Engineer]
+
+CORE COMPETENCIES ~ Ant ~ Maven ~ GIT ~ Bitbucket ~ Jenkins ~ Linux ~ Ansible ~ Shell Scripting ~Requirement Gathering ~Continuous Integration and Continuous Deployment ~ Software Development Life Cycle ~ Software Testing Life Cycle ~ Documentation & Reporting ~ Test Reports IT SKILLS â¢ Primary Skills: Dev-ops methodologies â¢ Programming Languages: C, Core Java â¢ Version Controls: GIT, Bitbucket â¢ Build Tools: ANT, Maven â¢ CI/CD Tools: Jenkins â¢ Configuration management: Ansible â¢ Scripting: Shell Script â¢ Application Servers: Apache Tomcat serverEducation Details 
+June 2015 to June 2017 Masters of science information technology Hyderabad, Telangana JNTU
+Devops Engineer 
+
+Devops Engineer - Nendrasys Technologies Pvt Ltd
+Skill Details 
+DEPLOYMENT- Exprience - 27 months
+Git- Exprience - 27 months
+DOCUMENTATION- Exprience - 26 months
+CHANGE MANAGEMENT- Exprience - 10 months
+CONFIGURATION MANAGEMENT- Exprience - 10 monthsCompany Details 
+company - Nendrasys Technologies Pvt Ltd
+description - Date
+
+Project Description:
+The Scope of the project is to design & develop e-commerce product features for sloan project. It's a basically B2B project where customer can buy all fixers, sinks related product. It focuses on the company, the stakeholders and applications, which allow for online sales, distribution and marketing of product.
+
+Responsibilities:
+o Detailed technical Knowledge and hands-on experience on DevOps, Automation, Build Engineering and Configura -
+tion Management.
+o Creating fully automated CI build and deployment infrastructure and processes for multiple projects.
+o Developing scripts for build, deployment, maintenance and related tasks using Jenkins.
+o Installing, configuring and maintaining Continuous Integration, Automation and Configuration Management tools.
+o Developing Ant, Maven and Shell scripts to automatically compile, package, deploy WAR, EAR and JAR files of mul- tiple applications to various platforms.
+o Creating Repositories, branches, managing the permissions of users and maintaining GIT, Bitbucket
+o Deploying and maintaining the code and application respectively and configuring the components which increase the re-usability.
+o Working closely with Architecture, Development, Test, Security and IT Services teams.
+o Supporting Business Analysts in getting used to the newly created jobs and Release activities.
+o Communicating daily with On-Site Team
+o Analyzing the requirements and identifying gaps & tracking logs, issues.
+
+PROJECT 2
+
+Nendrasys Technologies Pvt Ltd.,
+Project Name: Bangkok Bank Limited (BBL) Thaitrade (Commercial, E-commerce & Payment portal)
+company - Nendrasys Technologies Pvt Ltd
+description - Role: Devops Engineer
+â¢ Devops Engineer for a team that involved different development teams and multiple simultaneous software re- leases
+â¢ Participated in weekly release meetings with different teams to identify and mitigate potential risks associated with the releases.
+â¢ Responsible for Creating Repositories, branches, managing the permissions of users and maintaining GIT.
+â¢ Creating fully automated CI build and deployment infrastructure and processes for multiple projects.
+â¢ Analyze and resolve conflicts related to merging of source code for GIT
+â¢ Responsible for creating Ant and Maven scripts for build automation.
+â¢ Implemented the setup for Master slave architecture to improve the Performance of Jenkins.
+â¢ Handled end-to-end deployments and code propagation's across different environments, DEV to PROD.
+â¢ Handled the tasks of developing and maintaining the Change Tasks.
+â¢ Closely working with Developers, QA, Performance, UAT testers, IT Team.
+â¢ Created and maintained documentation of build and release processes and application configuration
+â¢ Coordinated with developers, Business Analyst and Mangers to make sure that code is deployed in the Production
+environment.
+
+PROJECT 1
+Nendrasys Technologies Pvt Ltd.,
+Project Name: Sloan Global Holdings (Sloan) (E-commerce)
+company - Nendrasys Technologies Pvt Ltd
+description - Project Description:
+BBL is development of an e-commerce payment portal System. As such BBL require a system which can support multiple
+merchants B2B/B2C e-commerce portal with various payment options via both online and offline. To achieve this BBL had
+made an agreement with Thai Trade, Thai Trade is one of the leading e-commerce website recognized by Thai
+government. In present Thai trade has a good base of users and sellers in several categories .The scope of the project is to design and develop e-commerce product features for BBLWTP project. It focuses on the company, the stakeholders and
+applications, which allow for online sales, distribution and marketing of electronics.
+
+Responsibilities:
+o Plan and track activities involved for build and deployment.
+o Resolving build issues
+o Developing scripts for build, deployment, maintenance and related tasks using Jenkins.
+o Collaboration with Development, QA, Product managements on build plans & schedules
+o Send daily and weekly reports to the team.
+o Involved in creating repositories, branches, merging activities, backup and restore activities in subversion
+servers.
+o Maintenance of Maven, shell scripts for safe builds and deploys.

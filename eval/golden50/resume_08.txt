@@ -1,0 +1,29 @@
+[SOURCE: Kaggle resume dataset (gauravduttakiit) | CATEGORY: ETL Developer]
+
+Education Details 
+January 2015 Bachelor of Engineering EXTC Mumbai, Maharashtra Mumbai University
+January 2012 Diploma Industrial Electronics Vashi, MAHARASHTRA, IN Fr. Agnel Polytechnic
+ETL Developer 
+
+ETL Developer
+Skill Details 
+informatica- Exprience - 36 monthsCompany Details 
+company - Blue Shield of California
+description - Duration: (Mar 2016 - Sept 2017)
+
+Description:
+Blue Shield of California (BSC) is health plan provider. The intent of this project is to process feeds coming in and going out of BSC system related to eligibility, enrollment, and claims subject areas. All these feeds comes in different formats and are processed using Informatica 9.6.1, Oracle 11g, Facets 5.0 &Tidal.
+
+Technical environment: ETL tool (Informatica power Center 9.6.1), Oracle 11g (SQL, PL-SQL), UNIX, Facets, Tidal, JIRA, Putty.
+
+Role: ETL Developer
+Responsibilities: â¢ Responsible for analyzing the business requirement document â¢ Involved in development of Informatica mappings using different transformations like source qualifier, expression, filter, router, joiner, union, aggregator, normalizer, sorter, lookup and its corresponding sessions and workflows.
+â¢ Extensively used Informatica Debugger to figure out the problems in mapping and involved in troubleshooting the existing bugs.
+â¢ Writing Unix Scripts & SQL's as per the business requirement.
+â¢ Impact analysis of change requests & their development.
+â¢ Data fabrication using Facets screens as well as SQL statements in membership domain.
+â¢ Unit testing & trouble shooting using Informatica debugger, SQL query & preparation of Unit Test Cases.
+â¢ Prepare documents for design, unit testing and impact analysis.
+
+Awards & Achievements â¢ Received Kudos Award at Syntel for contribution in error free work, commitment towards learning, client appreciation and outstanding display of Syntel values Received appreciation from Management for outstanding performance in complete tenure.
+â¢ Received spot recognition for automation done in project.

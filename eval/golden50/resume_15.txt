@@ -1,0 +1,65 @@
+[SOURCE: Kaggle resume dataset (gauravduttakiit) | CATEGORY: Web Designing]
+
+IT SKILLS Languages: C (Basic), JAVA (Basic) Web Technologies: HTML5, CSS3, Bootstrap, JavaScript, jQuery, Corel Draw, Photoshop, Illustrator Databases: MySQL5.0 IDE & Tools: Sublime Text, Notepad Operating Systems: Windows XP, Windows 7Education Details 
+September 2015 Bachelor of Engineer Information technology Nagpur, Maharashtra Nagpur University
+May 2011 HSC Secondary & Higher Secondary  State Board of Secondary
+June 2009 SSC Secondary & Higher Secondary  Maharashtra State Board of Secondary
+Web and Graphics Designer 
+
+Web and Graphics Designer - Virtuous Media Point, Pune
+Skill Details 
+BOOTSTRAP- Exprience - 24 months
+HTML5- Exprience - 24 months
+JAVASCRIPT- Exprience - 24 months
+jQuery- Exprience - 24 months
+COREL DRAW- Exprience - 24 months
+Adobe Photoshop- Exprience - 24 months
+Adobe Illustrator- Exprience - 12 months
+CSS3- Exprience - 24 monthsCompany Details 
+company - Virtuous Media Point
+description - 
+company - CNC Web World
+description - Internship Program: At e-sense IT Solution pvt.ltd. Nagpur as a Web Designing and Developement.
+* Presented in Project Competition in Innovesta 15 of Priyadarshini Indira Gandhi College of Engineering, Nagpur.
+* Presented in National Level Paper Presentation in TECH-WAVE 2015 of S.R.M.C.E., Nagpur.
+company - e-sense IT Solution pvt.ltd
+description - Key Result Areas:
+* Designed websites solutions by studying information needs, conferring with users, and studying systems flow, data usage, and work processes.
+* Understood process requirements and provided use cases for business, functional & technical requirements.
+* Interacted with users for requirement gathering, prepared functional specifications and low-level design documents.
+* Participated in the Software Development Life cycle (SDLC) and Agile methodology right from requirement analysis,
+* Performed detailed design of modules along with their implementation, and documentation integrated software modules
+Developed by other team members.
+
+Highlights:
+* Developed various modules as per customer requirement and identified and fixed number of bugs related to code, Database connectivity, UI Defects and so on.
+* Analyzed and modified existing codes to incorporate a number of changes in the application / user requirements, wrote new codes as required.
+* Coded, implemented and integrated complex programs using technologies such as HTML5, CSS3, JavaScript, jQuery, bootstrap.
+* Having good command on Graphics designing with effective ideas.
+
+PROJECTS
+
+* www.nitka.com, Nagpur united corporation (admin), Mintmetrix.com, Tagline videos (admin), Smartbadge (admin): -
+In all projects I have used technologies like HTML5, CSS3, Bootstrap, JavaScript, jQuery and text editor as sublime text.
+
+* www.shreekiaspack.co.in, www.3staragroproducts.com, www.luckystationery.co.in: - used technologies like HTML5, CSS3,
+Bootstrap, javascript and text editor as notepad++.
+
+* Design various Logos, Brochures, Advertising Banners, Visiting Cards, Pamphlet, Hoardings etc.
+
+B.E. FINAL YEAR PROJECT
+
+* Major Project: -
+
+Title: WEB BASED DISEASE DIAGNOSIS EXPERT SYSTEM.
+Duration: 1 Year
+
+Description: In this project we provide a website in which doctor gives online consultation for particular disease. System gives better suggestions for any health problems.
+
+* Mini Project Development-
+
+* SHOPPING MANAGEMENT SYSTEM Developed in C++.
+
+CURRICULUM & EXTRA CURRICULUM  ACTIVITIES
+company - FACE-IT
+description - Co-ordinator in project competition.

@@ -1,0 +1,48 @@
+[SOURCE: Kaggle resume dataset (gauravduttakiit) | CATEGORY: Database]
+
+Areas of Expertise â¢ Oracle Databases 12c, 11g, 10g â¢ Weblogic 12c, 11g â¢ Grid Infrastructure â¢ RMAN â¢ ASM â¢ Middleware: OIM, OAM, SOA â¢ Shell Scripts â¢ DataGuard â¢ Web servers - OHS, Apache â¢ Architecture Designs â¢ Proof of Concepts â¢ DevOpsEducation Details 
+January 2007 Bachelor of Engineering Information Technology Sangli, Maharashtra Walchand College
+January 2004 Diploma Computer Engineering Jalgaon, Maharashtra Govt. Polytechnic
+Lead Database Administrator 
+
+Lead Database Administrator - Tieto Software
+Skill Details 
+DATABASES- Exprience - 108 months
+MIDDLEWARE- Exprience - 96 months
+RMAN- Exprience - 84 months
+SHELL SCRIPTS- Exprience - 48 monthsCompany Details 
+company - Tieto Software
+description - As a part of AO (Application Operations) team, scope in project is quite wide than typical database administration. Range of accomplishments are extended right from Data Tier to Middle Tier & Application Tier:
+- Maximized availability of applications from 99.3% to 99.8%
+- Raised business by presenting Proof of Concepts for 10+ cases
+- Delivered upgrades of various applications time to time to keep it on supported platform
+- Saved SLAs as per contract by means of handling P1, P2 issues effectively
+- Produced Capacity reports comprising all layers (Data, Middleware, Web) of various applications
+- Generated Work Orders as per customer need
+company - Tieto Software
+description - - Designed databases of various applications
+- Planned RMAN backup and recovery, BCP strategies
+- Executed Business Continuity Testing for various applications
+- Introduced Zero Cost high availability solutions - Active-Passive Failover
+- Optimized performance by means of scripting automation
+- Established cloning procedures for all layers of various applications
+- Delivered Infrastructure changes, like FW Openings & LoadBalancer configuration for new applications
+- Eliminated downtime by troubleshoot issues for Middleware products - OIM, OAM, SOA
+- Contributed to build & maintain Integration Layer- SMTP, ftp, Reverse Proxy, OCM
+company - Tieto Software
+description - - Provided database support to environments - PROD, UAT, TEST, DEV
+- Performed Database Refresh/Cloning from production to development and support databases
+- Reduced risk level by means of upgrading & patching databases time to time
+- Protected databases by assigning appropriate roles and privileges as per SOD
+- Generated & maintained Middleware schemas using RCU
+- Exceeded scope of work by supporting & maintaining WebLogic platform - installation, patching, troubleshooting issues
+- Expanded duty scope to web servers: Install & maintain- OHS, apache, tomcat
+company - HSBC Software
+description - Being part of project supporting HSBC Bank France, I achieved:
+- Handled incidents & service requests as Day to day database administration tasks
+- Delivered basic implementation services - Database installation, patching, upgrades
+- Performed capacity planning - managing tablespaces, compressions
+- Contributed in maintaining quality of databases - managing instances, indexes, re-organization, performance monitoring & tuning using AWR, ADDM reports
+- Maintained backups & recovery of database - logical backups (exp/imp), datapump (expdp/impdp), cold backups, hot backups, RMAN backup/restore, RMAN Duplication
+- Reduced efforts by automation - Value add initiatives which includes writing shell scripts for automated housekeeping operations, scheduling backups, use crontab/at to schedule tasks
+- Implemented high availability solutions - Dataguard

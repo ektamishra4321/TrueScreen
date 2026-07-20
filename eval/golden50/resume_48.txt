@@ -1,0 +1,34 @@
+[SOURCE: Kaggle resume dataset (gauravduttakiit) | CATEGORY: Business Analyst]
+
+Education Details 
+ BE Computer Science Mumbai, Maharashtra Mumbai University
+ HSC  Mumbai, Maharashtra Maharashtra State Board
+ SSC  Mumbai, Maharashtra Maharashtra State Board
+Business Analyst 
+
+Business Analyst - Fino Payments Bank
+Skill Details 
+Company Details 
+company - Fino Payments Bank
+description - Key Role   In-depth requirement and input gathering
+Responsibilities and Achievements:
+â¦ Conducted in-depth requirement and input gathering from all concerned stakeholders [Business SMEs, Technical Architect and Business Architect] to create artifacts like Business Requirement Document (BRD) to arrive at functional requirements for development team
+â¦ Created Functional Specification Document (FSD) highlighting the technical implementation and the use cases
+â¦ Led the Merchant Commission Module project from end-to-end and co-ordinated for CUG and Live
+â¦ Designed the Account Opening Process flow end-to-end during the time when bank was going Live.
+â¦ SPOC for all the configurations (both account level and customer level) in production.
+â¦ Led the Cash Controlling Processes for the field users as per the requirement from the business team.
+â¦ Design and build proof of concepts to validate the viability of alternate approaches and determine optimum choice
+â¦ Involved in Process Design for development of the products
+â¦ Performed Functional Testing of the entire system and provided support during UAT by preparing UAT test cases, performing UAT tests to onboard new processes as BAU
+â¦ Worked with the development teams in arriving at detailed techno-functional specifications, participate in Feasibility
+Analysis
+â¦ Conducting twice a week meetings with the vendor to discuss the status of CRs and to resolve technical queries
+company - Fino Paytech Pvt. Ltd
+description - Key Role   Requirement gathering, Development, Testing
+Responsibilities and Achievements:
+â¦ Requirement gathering, preparation of traceability matrix, preparation and execution of use cases, developing of test plans based on requirements for Airtel Zambia National Partner Project
+â¦ Led the employee profile creation, maintenance of employee details in the database: Preparation of work flow, end-to-end development and testing of the module
+â¦ Designed the work flow process of the CAPA (Corrective Action Preventive Analysis) module to maintain the audit findings raised by the internal audit team
+â¦ Designed the Expense Management module and automated it for end-to-end in-house expense flow
+â¦ Designed the PMO tool Parivartan used for tracking the projects end-to-end

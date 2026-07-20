@@ -1,0 +1,41 @@
+[SOURCE: Kaggle resume dataset (gauravduttakiit) | CATEGORY: Java Developer]
+
+Education Details 
+January 2016 B.E Information Technology Pune, Maharashtra Sawitribai Phule Pune University
+Java Developer 
+
+Java Developer - Vertical Software
+Skill Details 
+Company Details 
+company - Vertical Software
+description - Expertise in design and development of web applications using J2EE, Servlets
+JSP, JavaScript, HTML, CSS, JQUERY, AJAX, JSON.
+
+Experienced in developing applications using MVC architecture.
+
+Good understanding of Software Development Life Cycle Phases such as Requirement
+gathering, analysis, design, development and unit testing.
+
+Languages & open Source Java, J2EE, Spring, Hibernate
+Frame Work
+
+Scripting Languages & Server Java JSP, Servlets, DB Connectivity's
+Side Program JDBC, JavaScript, jQuery, Ajax, JSON
+
+Application Server TomCat
+Database MongoDB, MySql
+IDEs Eclipse
+
+1. Project Title: Expense Ledger
+Role: Java Developer
+Tools and Technologies: Java, Jsp, Servlet, MySql, JavaScript, Json, Jquery, Ajax.
+
+2. Project Title: Trimurti Developer (Realestate)
+Role: Java Developer
+Tools and Technologies: Java, Jsp, Servlet, MySql, JavaScript, Json, Jquery, Ajax.
+
+3. Project Title: Vimay Enterprise
+Role: Java Developer
+Tools and Technologies: Java, Jsp, Spring, Hibernate, Maven, Jquery, Ajax.
+company - Higher Secondary School
+description - Pune, 58.8%

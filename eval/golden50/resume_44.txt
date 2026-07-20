@@ -1,0 +1,40 @@
+[SOURCE: Kaggle resume dataset (gauravduttakiit) | CATEGORY: Testing]
+
+Skill Set OS Windows XP/7/8/8.1/10 Database MYSQL, sql server 2005, 2008 & 2012 Languages Core Java Web Technology HTML, CSS Testing Manual Testing, Database Testing Other Bug tracking and reporting, End user handling.Education Details 
+January 2016 MCS  Pune, Maharashtra P.V.P College Pravaranagar
+January 2011 HSC   A.K.Junior College
+January 2009 SSC   A.K.Mahavidyalya
+JR TESTING ENGINEER 
+
+JR TESTING ENGINEER - M-Tech Innovations Ltd
+Skill Details 
+TESTING- Exprience - 24 months
+WINDOWS XP- Exprience - 24 months
+CSS- Exprience - 6 months
+DATABASE- Exprience - 6 months
+DATABASE TESTING- Exprience - 6 monthsCompany Details 
+company - M-Tech Innovations Ltd
+description - Responsibilities â¢     Analyzing the Testing Requirements â¢     Preparing Test Plans, Test Scenarios â¢     Preparing Test Cases â¢     Executing the test cases â¢     Tracking bugs â¢     Coordinating developers in order to fix it â¢     Preparing test summary reports â¢     Reporting quality manager â¢     Attending meeting
+
+Projects
+Project Name   1.Web Based Time Attendance Application
+Environment    Windows-7, Vista, Windows XP, Windows 8, Windows 10
+Clients        MCCIA, Sapphire Park, Bramha Suncity, Wanless hospital
+Role           Software Testing
+Duration       6 months
+
+Project Name   Android 1.Time Attendance Application   2.Vehicle Tracking System   3.Vistor Management System
+Environment    Android Mobile, Android Tablet.
+Clients        Vankan Security
+Role           Application Testing
+Duration       6 months
+
+Project Name   1.Web Based Factory Automation Process   2.Web Based Annual Maintenance Charges
+Environment    Windows-7, Vista, Windows XP, Windows 8, Windows 10
+Role           Software Testing
+Duration       6 months
+
+Project Name   Web Based Library Management System
+Environment    Windows-7, Vista, Windows XP, Windows 8, Windows 10
+Role           Software Testing
+Duration       6 months

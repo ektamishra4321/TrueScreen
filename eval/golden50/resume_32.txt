@@ -1,0 +1,19 @@
+[SOURCE: Kaggle resume dataset (gauravduttakiit) | CATEGORY: Blockchain]
+
+KEY SKILLS: Programing languages: C, C++, Python, Apex, Visualforce, Database: Mysql, Framework: Django, Technologies: Salesforce.com (Administration and development), Force.com, Salesforce CRM, Blockchain Website Designing: HTML5, CSS3, Project: DIPLOMA: Project Name: VANET-virtual Ad - Hoc Network Technology Used: Java. About Project: A system has been made for Video-streaming. In this project, we give the Real, time video-steaming on two or more devices using VANET AP DEGREE: Project Name: Drowsiness Detection System Technology Used: python, Raspberry pi. About project: A system has been made for Driver safety when parson driving car. It detects Drowsy condition of a parson then system brings the alarm.Education Details 
+January 2017 B.E Computer Engineering Pune, Maharashtra Sanghavi College of Engineering
+January 2014 Diploma Computer Technology Nashik, Maharashtra Shree Mahavir Polytechnic
+January 2010 S.S.C.  Nashik, Maharashtra C.D.O.Meri High school
+BlockChain Developer 
+
+
+Skill Details 
+AP- Exprience - 6 months
+APEX- Exprience - 6 months
+C++- Exprience - 6 months
+CRM- Exprience - 6 months
+CUSTOMER RELATIONSHIP MANAGEMENT- Exprience - 6 monthsCompany Details 
+company - 
+description - Job Description: Managing the mining firm,
+Creating the smart contract on Waves and Ethereum both
+Platform

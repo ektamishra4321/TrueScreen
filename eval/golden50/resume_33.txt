@@ -1,0 +1,99 @@
+[SOURCE: Kaggle resume dataset (gauravduttakiit) | CATEGORY: Business Analyst]
+
+IT Skills: Area Exposure Modeling Tool: Bizagi, MS Visio Prototyping Tool: Indigo Studio. Documentation: MS Office (MS Word, MS Excel, MS Power Point) Testing Proficiency: Smoke, Sanity, Integration, Functional, Acceptance and UI Methodology implemented: Waterfall, Agile (Scrum) Database: SQL Testing Tool: HPQC Business Exposure Education Details 
+ Bachelor Of Computer Engineering Computer Engineering Mumbai, Maharashtra Thadomal Shahani Engineering college
+ Diploma Computer Engineering Ulhasnagar, Maharashtra Institute of Technology
+ Secondary School Certificate  Ulhasnagar, Maharashtra New English High School
+Senior Business Analyst - RPA 
+
+Senior Business Analyst - RPA - Hexaware Technologies
+Skill Details 
+DOCUMENTATION- Exprience - 47 months
+TESTING- Exprience - 29 months
+INTEGRATION- Exprience - 25 months
+INTEGRATOR- Exprience - 25 months
+PROTOTYPE- Exprience - 13 monthsCompany Details 
+company - Hexaware Technologies
+description - Working as a RPA Business Analyst
+company - BBH- Brown Brothers Harriman & Co
+description - is a private bank that provides commercial banking, investment management, brokerage, and trust services to private companies and individuals. It also performs merger advisory, foreign exchange, custody services, commercial banking, and corporate financing services.
+
+Responsibilities: â¢ Performed Automation Assessment of various Processes and identified processes which can be candidates of RPA.
+â¢ Conducting Assessment that involves an initial Understanding of the Existing System, their technology, processes, Usage of the tools, Feasibility of tool with automation tool along with automation ROI analysis.
+â¢ Preparing the Automation Potential Sheet which describes the steps in the process, the volume and frequency of the transaction, the AHT taken by SME to perform the process and depending on the steps that could be automated, Automation potential and the manual efforts that will be saved are calculated.
+Calculating the complexity of the Process which is considered for automation and depending on all these factors Number of Bots and Number of Automation tool Licenses are determined.
+â¢ Implementing a Proof of Concept (POC) to Validate Feasibility by executing the selected critical use cases for conducting a POC which will helps to identify financial and operational benefits and provide recommendations regarding the actual need for complete automation.
+â¢ Gathering business requirements by conducting detailed interviews with business users, stakeholders, and Subject Matter Experts (SME's) â¢ Preparing Business Requirement Document and then converted Business requirements into Functional Requirements Specification.
+ â¢ Constructing prototype early toward a design acceptable to the customer and feasible.
+â¢ Assisting in designing test plans, test scenarios and test cases for integration, regression, and user acceptance testing (UAT) to improve the overall quality of the Automation.
+â¢ Participating regularly in Walkthroughs and Review meetings with Project Manager, QA Engineers, and Development team.
+â¢ Regularly interacting with offshore and onshore development teams.
+company - FADV - First Advantage
+description - is a criminal background check company that delivers global solutions ranging from employment screenings to background checks.
+The following are the processes which were covered:
+Email Process, Research Process, Review Process.
+
+Responsibilities: â¢ Requirement Gathering through conducting Interviews & Brainstorming sessions with stakeholders â¢ To develop decision models and execute those rules as per the use case specifications.
+â¢ To Test/validate the decision models against document test data.
+â¢ To maintain and enhance the decision models for changes in regulations as per use case specifications.
+â¢ Responsible for performing the business research that will make a business growth.
+â¢ Developing a clear understanding of existing business functions and processes.
+â¢ Effectively communicate with the onsite clients for the queries, suggestions, and update.
+â¢ Giving suggestions to enhance the current processes.
+â¢ Identifying areas for process improvement.
+â¢ Flagging up potential problems at an early stage.
+â¢ Preparing PowerPoint presentations and documents for business meetings.
+â¢ Using any information gathered to write up detailed reports.
+â¢ Highlighting risks and issues that could impact project delivery.
+â¢ Able to work accurately.
+â¢ To develop and maintain documentation for internal team training and client end user operations.
+â¢ To work efficiently with team members and across teams.
+â¢ To mentor and train junior team members.
+company - Clinical Testing, Lab Work and Diagnostic Testing
+description - IQVIA provides services to its customers this includes: Clinical Testing, Lab Work and Diagnostic Testing under clinical trial. These customers need to pay to IQVIA and aging details and invoices are generated for the same.
+The following are the processes which were covered:
+
+Tracking Payments, Automated Real Time Metrics Reporting (Dashboard), Past Due Notifications, AR Statements, Credit/Rebill.
+Responsibilities: â¢ Conducting meetings with clients and key stakeholders to gather requirements, analyze, finalize and have formal sign-offs from approvers Gather and perform analysis of the business requirements â¢ Translating the business requirements into the Business Requirement Document [BRD], Functional Requirement Document [FRD].
+â¢ Facilitating meetings with the appropriate subject matter experts in both business and technology teams â¢ Coordinating with business user community for the execution of user acceptance test as well as tracking issues â¢ Working, collaborating and coordinating with Offshore and Onsite team members to fulfill the BA responsibilities from project initiation to Post-Implementation â¢ Reviewing the test scripts with business users as well as technology team. Execute test scripts with expected results for the System Integration Test (SIT) and User Acceptance Test (UAT) â¢ Coordinating and conducting the Production Acceptance Testing (PAT) with the business users â¢ Creating flow diagrams, structure charts, and other types of system or process representations â¢ Managing changes to requirements and baseline through a change control process â¢ Utilizing standard methods, design and testing tools throughout project development life cycle â¢ Work closely with the operational functional teams, operations management, and personnel, and various technology teams to facilitate a shared understanding of requirements and priorities across all areas
+company - Eduavenir IT Solution
+description - Project: M.B.M.S
+
+M.B.M.S. - is an Inventory management application that allows user to manage inventory details of different warehouses, having different products located at various locations and help extract what goods have been procured, sold or returned by customers. It generates automated invoicesalong withcustomized reports. It also managescustomer complaint and resolution system implementation along with automated MIS on monthly basis.Sales and forecastingis also developed on MIS System and the streamlining of process of warehousing and dispatch along with online proof of delivery management system (POD documentation) is generated.
+
+Responsibilities: â¢ Participate in requirement gathering discussion with client to understand the flow of business processes â¢ Analyze the requirements and determine the core processes, develop Process Documentation and ensure to stay up-to-date in conjunction with on-going changes â¢ Participate in process flow analysis and preparing BRD, SRS.
+â¢ Coordinating with developers, designers & operations teams for various nuances of the project, communicate the stakeholder requirements from requirement /enhancement to implementation and finally deliver the same within estimated timeframe.
+â¢ Support UAT by reviewing test cases, manage version control of documents, software builds.
+â¢ Coordinate with the stakeholders for UAT sign off and coordinate internally for production movement till Golive stage of the application.
+â¢ Provide demo and training to internal and end user using PowerPoint presentation.
+â¢ Resolving project functional &technical issues during UAT.
+â¢ Prioritizing the Production bugs and resolving the same within the estimated timeframe.
+â¢ Preparing Project Status Report and Production Bugs Status to all the stakeholders.
+â¢ Promoting and Networking for online trading platform.
+â¢ Designing query sheet for obtaining and comparison of quotes from various vendors.
+â¢ Development of product codes / material codes for inventory management (Master Data Management)
+company - CAPGEMINI Head Office
+description - Type: Mobile and Device Testing.       Duration: January 2014 - August 2014
+
+Follet - An application which takes an electronic request from the user for the books he requires from a particular follet store. This detailed information about books that will include the name of the book, its price, the date of the transaction and the parties involved which will then be sent to follet stores. User then create request for one or more books for a given date. This request is then processed further and user gets a mail of the date when he will be provided with that book.
+
+Responsibilities: â¢ Understanding the needs and business requirements.
+â¢ Preparing BRD, SRS by eliciting all the requirements from the client and SMEs â¢ Understanding the dependency of the modules in the system â¢ Preparation of test plan for Unit level and Integration level.
+â¢ Preparation and execution of test cases.
+â¢ Defect tracking, Issue Resolution, Risk Monitoring, Status Tracking, Reporting and Follow-up.
+â¢ Preparation of Test Completion report.
+company - CAPGEMINI Head Office
+description - 
+company - CAPGEMINI Head Office
+description - Humana is a health care insurance project of U.S. which deals with supplying various medicines to citizens as per the doctor's reference and patient's insurance policy. This application keeps track of all the medicines user has consumed in the past and generates a patient history. A citizen is given a drug only after the doctor's reference so the doctor's information is also linked with the patient's history.
+
+Responsibilities: â¢ Understanding the requirements and getting clarifications from client.
+â¢ Involved in writing test cases based on test scenarios and execute them.
+â¢ Ensuring Test Coverage using Requirement Traceability Matrix (RTM) â¢ Preparation of Test Completion report.
+company - CAPGEMINI Head Office
+description - Testing Trends WQR (World Quality Report) is an application which allows the users to take a survey on different methods and technologies used for testing. Users can choose to answer any type of questions under three different categories. Users have a facility to search, view and export the data to excel. Also, users get daily and weekly reports through email about the new trends in testing implemented around the globe. Testing Trends WQR app is available on Android and IOS platforms.
+
+Responsibilities: â¢ Understanding the requirements and getting clarifications from client.
+â¢ Writing test cases based on test scenarios and executed them.
+â¢ Performing different types of testing such as Functional, Integration, System, and UAT.
+â¢ Defect resolution and maintenance of the application.

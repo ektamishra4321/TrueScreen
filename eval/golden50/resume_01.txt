@@ -1,0 +1,87 @@
+[SOURCE: Kaggle resume dataset (gauravduttakiit) | CATEGORY: Automation Testing]
+
+TECHNICAL SKILLS Automation Testing â¢ Selenium WebDriver, TestNG. Testing Framework â¢ TestNG, Data Driven, Page Object model. Applications & Tools â¢ Eclipse, Postman Building Tool Version Control Continuous Integration â¢ Maven â¢ SVN â¢ Jenkins Database â¢ SQL Languages â¢ SQL, Java, C++ Scripting Languages â¢ HTML, JavaScript Operating System â¢ Windows Domain â¢ Insurance, ERP, E-Commerce Education Details 
+January 2016 B.E. Computer Pune, Maharashtra Savitribai Phule University of Pune
+Automation Testing 
+
+Java Developer and AutomationTesting
+Skill Details 
+C++- Exprience - 6 months
+DATABASE- Exprience - 6 months
+ECLIPSE- Exprience - 6 months
+EMPLOYEE RESOURCE GROUP- Exprience - 6 months
+ENTERPRISE RESOURCE PLANNING- Exprience - 6 monthsCompany Details 
+company - Phioenix Microsystem Pvt.Ltd.
+description - 
+company - Phioenix Microsystem Pvt.Ltd.
+description - Organization Role
+Phoenix Microsystems Pvt.Ltd. Jr. Java Developer
+
+PROJECTS
+Project #1
+Project SWB-EBS_Support
+Role Java Developer
+Description
+Inventory Operation System provides with a way to manage the inventories which are conducted on a day to day basis. It is used by account owners and district offices to manage their inventory cycles, plan their events, schedule their stores and people, enter employee time sheets and approve customer invoicing. In addition, it provides several tools which assist the users in completing a profitable inventory, while satisfying the needs of their customers.
+
+Responsibilities
+
+Environment
+
+â¢ Accounts/Customers/Stores
+â¢ Cycles
+â¢ Planning/Scheduling/Rescheduling/Splits
+â¢ Time Collection
+â¢ Invoicing
+â¢ Closing the week Use of bulk updates- bulk inserts. Updates to be performed based on primary
+
+â¢ Java 1.6, Ice faces 1.8.2, Ibatis 2.0, Jboss Seam, EJB 2.0, HTML
+
+Project #2
+Project INTELLIGEN_FOR MOBILEAPP_DEV_KAUAPC
+Role Java Developer
+Description
+Inventory Management for a retailer project is to develop Inventory Management System (IMS), accessible on Android, for retailers to track their outstanding inventory, cost of inventory, sales by day and thus empower retailer to better manage their business.
+
+Responsibilities
+â¢ Cost of Inventory
+â¢ Inventory Management System
+â¢ Time Management
+â¢ Machine Learning Platforms
+
+Environment â¢ Java 1.6, Core Java 6.0, JSF 2.0, Rich Faces 4.1, Spring 3.2, Restful Web service using Jersey API
+
+Project #3
+Project Loan LeLo Automation
+Role Software Test Engineer
+Description
+Loan Le Lo Offers for the selected loan from multiple banks. Customer can select particular loan offer and will have to fill the details in the form and will get registered. Email will be sent to his registered email id with login id and password.
+
+Responsibilities
+â¢ Development of Page Object Model Framework for Automation Testing.
+â¢ Development of Automation Test Script using Selenium WebDriver & TestNG in JAVA.
+â¢ Execution of Selenium Test cases and Reporting defects.
+â¢ Debugging & Executing Automation test script using Selenium Web Driver.
+â¢ Involved in Functional & Regression Testing.
+â¢ Worked on Jenkins for Continuous Integration Requirements.
+â¢ Reviewed Test Reports and Prepared Summary Reports.
+
+Environment â¢ Selenium Web Driver, Java, Eclipse, TestNG, SQL
+
+Project #4
+Project DDSM Automation
+Role Software Test Engineer
+Description
+The objective of this project is to automate a system for ZZ server. ZZ server that is Data Divider team has a manual system to enter a customer details & its user details. DDSM system have multiple roles. Each role have set of permissions.
+
+Responsibilities
+â¢ Responsible for Integration Testing, Functional Testing, System Testing.
+â¢ Creating automation test cases for existing POM Framework using Selenium Web Driver.
+â¢ Enhanced Test cases using Java programming features and TestNG Annotations.
+â¢ Debugging & Executing Automation test script using Selenium Web Driver.
+â¢ Followed Data driven approach: Reading the data from Excel file
+â¢ Worked on Jenkins for Continuous Integration (CI) Requirements.
+â¢ Involved in Regression Testing, API Testing.
+â¢ Preparation of weekly and monthly status reports.
+
+Environment â¢ Selenium Web Driver, Java, Eclipse, HTML, TestNG, SQL, Postman

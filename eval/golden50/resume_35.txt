@@ -1,0 +1,41 @@
+[SOURCE: Kaggle resume dataset (gauravduttakiit) | CATEGORY: Database]
+
+TECHNICAL SKILL: Operating System LINUX, Windows Server 2012 R2, Windows 98, Windows 2000/ XP Tools & Utility Packages SQL* Loader, SQL*PLUS, OEM, Datapump, expdp/impdp, PLSQL Developer, Jenkins Database Oracle 10g, Oracle 11g, Oracle 12c Scripting UNIX Shell Scripting Language SQL Education Details 
+January 2011 M.B.A.  Amravati, Maharashtra Amravati University
+January 2007 B.C.A.  Nagpur, Maharashtra Nagpur University
+Oracle Database Administrator 
+
+ORACLE DATABASE ADMINISTRATOR ON LINUX/MICROSOFT WITH 4 YEARS EXPERIENCE.
+Skill Details 
+ORACLE- Exprience - 48 months
+LINUX- Exprience - 6 months
+ORACLE DBA- Exprience - Less than 1 year months
+RAC- Exprience - Less than 1 year months
+GOLDEN GATE- Exprience - Less than 1 year months
+ASM- Exprience - Less than 1 year months
+DATAGUARD- Exprience - Less than 1 year monthsCompany Details 
+company - TIETO INDIA PVT. LTD
+description - Pune From February 2015 till present
+
+Project Profile:
+Oil and Gas unit of Tieto India Pvt. Ltd. is working for Environmental Components (EC) application. Tieto is the authorized service provider in EC. Energy Components is a complete end-to-end hydrocarbon accounting solution following the hydrocarbons from production to transport, sales and revenue recognition. Globally market-leading hydrocarbon accounting software with functionality coverage exceeding other available solutions. Modern, flexible and scalable technology platform. Selected as the global standard and best practice by oil & gas super majors.
+Responsibilities: â¢ Oracle Database Administration 11g R2, 12c and 18c â¢ Supporting databases in 24x7 environments and coordinate with Application, OS, Storage and Development Teams. Test and Production environments â¢ Regularly monitoring the trace files and Alert log files for database related issues.
+â¢ Experience in monitoring the CPU usage, IO and memory utilization at OS level.
+â¢ Checking the Alert log file to analyze the ORA errors if any to raise SR with Oracle.
+â¢ Monitoring the log files, backups, database space usage and the use of system resources.
+â¢ Configuring Backup (RMAN) for database and restoring database.
+â¢ Installation, configuring and updating Oracle server software and related Oracle products of 11g and 12C.
+â¢ Oracle Server installation, client installation and configuration, PLSQL developer installation.
+â¢ Creating database using DBCA and manually.
+â¢ Creating of Oracle user and granting proper privileges to user as per request.
+â¢ Creating AWR, ASH and ADDM reports for database performance analysis.
+â¢ Handling space management and performance issues in Oracle databases.
+â¢ Creating remote database link.
+â¢ Renaming and resizing of data files in Oracle database if needed.
+â¢ Tablespace shrinking with regular time interval to reclaim server space.
+â¢ Expertise in Export and Import using data pump in Oracle database.
+â¢ Expertise in Configuration of Listener and Tnsnames through NETMGR and NETCA and statically also.
+â¢ Managing Oracle Listener and Oracle Network Files.
+â¢ Creating user Profiles, granting specific privileges and roles to the users in Oracle database.
+â¢ Maintaining tablespaces & data files, Control files, Online Redo log files in Oracle database.
+â¢ Worked on AWS cloud services like EC2, S3, RDS, ELB, EBS, VPC, Route53, Auto, Cloud watch, Cloud Front, IAM for installing configuring and troubleshooting on various Amazon images for server migration from physical into cloud.

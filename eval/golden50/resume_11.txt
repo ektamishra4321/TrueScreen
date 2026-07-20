@@ -1,0 +1,106 @@
+[SOURCE: Kaggle resume dataset (gauravduttakiit) | CATEGORY: Network Security Engineer]
+
+Operating Systems: Windows, Linux, Ubuntu Network Technologies : Cisco Routing and Switching, InterVLAN Routing, Dynamic Protocols i.e. RIPv2, RIPng, OSPF, EIGRP. Static Routing, ACL, VTP, VLAN, EhterChannel, HSRP, STP, IPv6, Lan Troubleshooting, Structured Network Cabling, Cisco Firewall and Fortinet Firewall, RHEL 6 networks. Networking Devices : Cisco Routers: 1800s, 1900s, 2600s, 2900s, 3600s, 3800s, 7200s etc. : Cisco Switches: Cisco Catalyst 2900s, 3700s, 4850s etc. : HP ProLiant Servers, Dell Server, Lenovo Servers etc. : Fortinet Firewall, Modem etc. Server Technologies : AD, RODC, FTP, Print Server, SCCM, WDS, DHCP, Group Policies, DHCP Server, DNS Server, RIS Server, User policies, computer policies etc. Backup Technologies: Server 2016 backup tools, Symantec Backup EXEC 12D etc. Virtualisation: VMWare ESXi, VMware Workstation, Oracle VirtualBox, GNS3 Network Simulator etc. Education Details 
+ MSC   AISECT university in distance education
+ B. Com   Jiwaji University
+Sr. Network Engineer 
+
+Sr. Network Engineer - Cloudatix Network Pvt. Ltd
+Skill Details 
+CISCO- Exprience - 43 months
+DHCP- Exprience - 43 months
+DNS- Exprience - 43 months
+FTP- Exprience - 43 months
+LAN- Exprience - 43 monthsCompany Details 
+company - Cloudatix Network Pvt. Ltd
+description - 18.
+
+Project Routers, Switches and Server Configuration with Group Policies
+Client Railwire/Railtel Corporation of India Ltd., Mumbai
+Type of Project Configuration of WiFi AP of Railway Station in Maharashtra State
+Role Sr. Network Engineer
+Roles & responsibilities
+â¢ Earthing, trenching for equipment.
+â¢ Making plans for preparing station to WiFi environment including cabling, installation, commissioning, handing over etc.
+â¢ Implementing and maintaining backup schedules.
+â¢ Upgrading and backups of Cisco router configuration files.
+â¢ Installation, Configuration and Administration of Windows Servers 2008 R2, 2012 R2, 2016 Active Directory, FTP, DNS, DHCP, TFTP.
+â¢ Troubleshooting LAN & WAN infrastructure.
+â¢ Settings of the networking devices (Cisco Router, switches) co-coordinating with the system/network administrator during implementation.
+â¢ Regular Health Checking of File Servers & Application Servers for Security violation, Disk Spaces etc.
+â¢ Maintaining & Management, windows 7 & 10 based network.
+â¢ Installing & Configuring Network Printers.
+â¢ Assigning proper rights on shared drives.
+â¢ User & Groups management and assigning rights according to organization requirements.
+company - Asha MMPC
+description - Project Routers, Switches and Server Configuration with Group Policies
+Client Asha MMPC, Bali, Pali, Rajasthan
+Type of Project Configuration DPMCU, Milknet Server, EMS Server, QMS Server etc.
+Role IT Executive
+Roles & responsibilities
+â¢ Implementing and maintaining backup schedules.
+â¢ Upgrading and backups of Cisco router configuration files.
+â¢ Installation, Configuration and Administration of Windows Servers 2008 R2, 2012 R2, 2016 Active Directory, FTP, DNS, DHCP, TFTP.
+â¢ Troubleshooting LAN & WAN infrastructure.
+â¢ Settings of the networking devices (Cisco Router, switches) co-coordinating with the system/network administrator during implementation.
+â¢ Regular Health Checking of File Servers & Application Servers for Security violation, Disk Spaces etc.
+â¢ Maintaining & Management, windows 7 & 10 based network.
+â¢ Installing & Configuring Network Printers.
+â¢ Assigning proper rights on shared drives.
+â¢ User & Groups management and assigning rights according to organization requirements.
+company - Interface Techno System
+description - Project           Routers, Switches and Server Configuration with Group Policies
+Client            The Scindia School, Fort, Gwalior (MP)
+Type of Project   Configuration and Implementation
+Role              Network Engineer
+Roles & responsibilities
+â¢ Implementing and maintaining backup schedules.
+â¢ Upgrading and backups of Cisco router configuration files.
+â¢ Installation, Configuration and Administration of Windows Servers 2000/2003, 2008 R2, 2012 R2, Active Directory, FTP, DNS, DHCP, TFTP, Linux OS.
+â¢ Working on troubleshooting of complex LAN infrastructure.
+â¢ Settings of the networking devices (Cisco Router, switches) co-coordinating with the system/Network administrator during implementation.
+â¢ Regular Health Checking of File Servers & Application Servers for Security violation, Disk Spaces etc.
+â¢ Maintaining & Management, windows 7 professional based network.
+â¢ Installing & Configuring Network Printers.
+â¢ Installing Server side Software's & Utilities.
+â¢ Assigning proper rights on shared drives.
+â¢ Managing user account
+company - Interface Techno System
+description - Project           Network Implementation and Configuration
+Client            M/s Teva API India Pvt Ltd, Bhind (MP)
+Type of Project   Implementation and Configuration
+Role              Network Support Engineer
+Roles & responsibilities
+â¢ Implementing and maintaining backup schedules.
+â¢ Upgrading and backups of Cisco router configuration files.
+â¢ Installation, Configuration and Administration of Windows Servers 2000/2003, 2008 R2, 2012 R2, Active Directory, FTP, DNS, DHCP, TFTP, Linux OS.
+â¢ Working on troubleshooting of complex LAN infrastructure.
+â¢ Settings of the networking devices (Cisco Router, switches) co-coordinating with the system/Network administrator during implementation.
+â¢ Configuration, Maintenance, check Point Endpoint Security MI Management Console for Laptop Users
+â¢ Regular Health Checking of File Servers & Application Servers for Security violation, Disk Spaces etc.
+â¢ Logging & Monitoring Calls using CA Unicenter Service Desk Manager.
+â¢ Maintaining & Management, windows XP professional based network.
+â¢ Installation, Configuration & troubleshooting of Microsoft Outlook.
+â¢ Installing & Configuring Network Printers.
+â¢ Installing Server side Software's & Utilities.
+â¢ Assigning proper rights on shared drives.
+â¢ Managing user account
+â¢ Issue E Token for laptop user
+â¢ Managing more than 350 Desktops and Laptops
+â¢ Taking differential and full backups of the server through Symantec Backup Exec 12D
+â¢ Restoring the Files, which got corrupted or deleted accidentally.
+â¢ Handling escalations of desktop calls from remote locations.
+â¢ Monthly/Weekly Report Generations for the servers.
+â¢ Preparing MIS, vendor & inventory management reports.
+company - Nava Bharat Press (P) Ltd
+description - Role   System Engineer
+Roles & responsibilities
+â¢ Server Management
+â¢ Backup management
+â¢ Helpdesk, SLA monitoring and incident management
+â¢ Hosting client meeting at scheduled interval
+â¢ System Management and Troubleshooting
+â¢ Hardware Troubleshooting
+
+Additional Qualification & Certifications
+â¢ Manual and Computerized accounting with Tally ERP9. Tally certification from Tally Academy.

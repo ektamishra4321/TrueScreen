@@ -1,0 +1,19 @@
+[SOURCE: Kaggle resume dataset (gauravduttakiit) | CATEGORY: Automation Testing]
+
+TECHNICAL SKILLS Languages: Core Java Automation Testing Tool: Selenium with web driver and IDE. DBMS: MS SQL Server 2000/2005, Oracle 10g. Operating System: Windows-XP/7/10 Education Details 
+ BSCIT   Mumbai University
+Automation Tester 
+
+Automation and Manual Tester
+Skill Details 
+DATABASE MANAGEMENT SYSTEM- Exprience - 6 months
+DBMS- Exprience - 6 months
+JAVA- Exprience - 6 months
+MS SQL SERVER- Exprience - 6 months
+MS SQL SERVER 2000- Exprience - 6 monthsCompany Details 
+company - Capgemini India Pvt Ltd
+description - Worked on Manual as well as automation testing.
+Started carrier as manual tester then after that moved to automation testing. Now working as automation tester. Worked on Selenium Webdriver.
+company - Na
+description - Currently working with Capgemini, Airoli as Consultant from 06th May 2013 to till the
+date.

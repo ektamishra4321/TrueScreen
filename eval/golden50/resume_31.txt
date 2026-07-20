@@ -1,0 +1,51 @@
+[SOURCE: Kaggle resume dataset (gauravduttakiit) | CATEGORY: Automation Testing]
+
+SOCIAL SKILLS: â¢ Ability to establish trust and work with a team. â¢ Determined with good work ethics. â¢ Ability to work under difficult situations.Education Details 
+January 2011 to January 2016   Mumbai, Maharashtra MUMBAI UNIVERSITY
+ Bachelor of Electronics Engineering Electronics Engineering Mumbai, Maharashtra Atharva College of Engineering at Malad
+Automation and Electrical engineer 
+
+Automation and Electrical Engineer - SMEC AUTOMATION PVT. LTD
+Skill Details 
+Company Details 
+company - SMEC AUTOMATION PVT. LTD
+description - -18, Supply, installation, testing and commissioning of water level sensor and valve actuators for water tanks at BARC hospital Anushaktinagar, Trombay and BARC facility at Kalyan.
+â¢ Implemented of academy projects like Automatically tank filling with relay and float sensor level control, bottle filling on conveyor belt motion, and waste material crashing then separated on conveyor belt motion with PLC controlling.
+
+Role of Automation and Instrumentation Engineer (Marine and Industrial Automation):
+â¢ Re-calibration of field Instruments like control valve actuators, sensors and transmitters for pneumatic and electrical.
+â¢ Research and developing on new automated system.
+â¢ Level, flow and temperature process control with PID of various brands (Nippon, Selec etc.)
+â¢ PLC panel wiring, DOL and Star delta control wiring of 3 phase induction motor.
+â¢ Panel testing IP knowledge.
+â¢ Control Panel quality check and assurance.
+â¢ Eletrical Single Line Daigram (SLD) and power wiring daigram.
+
+Internship experience:
+company - SMEC AUTOMATION PVT. LTD
+description - Company Profile
+SMEC Automation provides specialized technical consulting services and custom engineered products to the marine, energy and offshore industries applying advanced methods and technologies. SMEC Automation is one of India's leading manufacturers of automation and monitoring equipment for ocean-going vessels especially in Marine Boiler and Main Engine Control, IGG (Inert Gas Generator) and Alarm System.
+
+Project:
+company - SMEC AUTOMATION PVT. LTD
+description - Completed Internship of Instrumentation and Calibrations in SMEC Automation Pvt. Ltd. for 6 months duration from 8th June 2016 to 30th November 2016.
+
+TECHNICAL QUALIFICATION:
+â¢ Underwent Post Graduate Diploma in Industrial Calibration and Instrumentation and Post Graduate Diploma in Industrial Automation in duration of 3 months each with hands on practical exposure to Industrial Automation Tools like PLC, PAC, SCADA, HMI, INTERFACING, DRIVES, MCC PANEL and VFD.
+â¢ Successful in the examination as Post Graduation Diploma in Industrial Automation and Post Graduation Diploma in Industrial Instrumentation with TUV Rheinland Certified Qualification on 07-11-2016.
+TECHNICAL SKILLS:
+â¢ Calculation and selection of cable, switchgear and protection.
+â¢ Expertise in PLC Hardware like AB, Schneider, Siemens, Omron, Delta, ABB and GE-Fanuc. Knowledge on control relay logic and ladder logic.
+â¢ Having good knowledge in designing and interfacing PLC with SCADA such as Intouch, Vijeo-Citect, WinCC, iFix and Factory TalkView. Real time data acquisition from OPC (Kepware), HMI & interfacing.
+â¢ Handling VFD for motor control (Schneider-Electric ALTIVAR 28 Series)
+â¢ Calibration of Pressure gauge, Temperature gauge, Control Valve, Level or Flow measurements and control, Druck Injector, Smart DP transmitter using HART COMMUNICATOR. Piping and Instrumentation Diagram, Hand Tools, Tubes and Pipe fitting, Cable and Cable Glanding.
+â¢ Have basic knowledge of "HONEYWELL DCS C-300" and its programming.
+â¢ Completed 5 days Robotic workshop (KUKA KR 16) at Atharva College of Engineering.
+â¢ Training of 2 weeks at RK Electricals.
+
+COMPUTER SKILLS:
+â¢ Electrical designing software: basic AutoCAD and EPLAN.
+â¢ PLC Software: Rockwell, Twido-suite, Step7-Microwin SP2, Unity Pro XL, CX-Programmer, WPL Software, Codesys and Versa Pro. Designing software: Wonderware, CitectScada7.4, Proficy HMI SCADA/iFIX and FactotyTalk View.
+â¢ Successfully completed Spoken Tutorial program on "C", "C++" and "JAVA" Programming individually conducted by IIT-BOMBAY.
+â¢ Completed 5 days basic course for "Basic Of Mac OS" at Atharva College of Engineering. Completed Phython Workshop conducted by CodeStrike of 1 day in '15 at Atharva College of Engineering.
+â¢ Operating System: Windows, Mac.

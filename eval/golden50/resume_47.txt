@@ -1,0 +1,24 @@
+[SOURCE: Kaggle resume dataset (gauravduttakiit) | CATEGORY: Blockchain]
+
+Hobbies â¢ Playing Chess â¢ Solving Rubik's Cube â¢ Watching Series Languages â¢ English â¢ Hindi â¢ Marathi Education Details 
+January 2014 to January 2017 Bachelorâs Degree Information Technology, First Class Pune, Maharashtra JSPMâs Jayawantrao Sawant College of Engineering
+January 2010 to January 2014 Diploma Information Technology, First Class Nashik, Maharashtra K. K. Wagh Polytechnic
+January 2010 SSC, First Class  Nashik, Maharashtra New Era English School
+Blockchain Developer 
+
+Blockchain Developer - Corpcloud Global Services Pvt. Ltd
+Skill Details 
+Blockchain- Exprience - 6 months
+Smart Contracts- Exprience - 6 months
+DApps- Exprience - 6 months
+MEAN Stack- Exprience - 12 monthsCompany Details 
+company - Corpcloud Global Services Pvt. Ltd.
+description - â¢ Worked productively with the Team to identify requirements and proposed ideas on enhancing the product.
+â¢ Developing and managing userâs Blockchain account wallets and transactions.
+â¢ Regularly monitoring smooth executions of Blockchain transactions and wallet functions along with identifying and correcting possible errors.
+â¢ Writing smart contracts, their APIâs and documenting them.
+company - Corpcloud Global Services Pvt. Ltd.
+description - â¢ Identifying complex bugs in the system and resolving them.
+â¢ Implemented and updated application modules under the direction of Seniors.
+â¢ Effectively coded required changes and alterations and checked in into repository using Bit Bucket.
+â¢ Performed code check-ins and check-outs regularly and worked with APIâs.

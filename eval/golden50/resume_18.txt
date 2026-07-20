@@ -1,0 +1,32 @@
+[SOURCE: Kaggle resume dataset (gauravduttakiit) | CATEGORY: Business Analyst]
+
+Technical Skills Application Servers: IIS 6.0, Jboss 7.1. Database: SQL, Oracle and DB2. Report Tool: iReport, Crystal report. Career GraphEducation Details 
+
+Business Analyst 
+
+Business Analyst - Zensar Technologies Ltd
+Skill Details 
+CRYSTAL REPORT- Exprience - 15 months
+DATABASE- Exprience - 6 months
+DB2- Exprience - 6 months
+IIS- Exprience - 6 months
+IIS 6- Exprience - 6 monthsCompany Details 
+company - Zensar Technologies Ltd
+description - Location: Goregoan, Mumbai (Client -SUN Pharmaceutical)
+Designation: Business Analyst.
+Role: Requirement gathering, gap analysis, support, end user training, documentation.
+company - Proteus Technologies Pvt Ltd
+description - Base Information Management Pvt. Ltd. Is a Mumbai base software service provider with core competency and proven track record of installations of Enterprise Wide Solutions. Base customers come from industries as wide as Pharmaceuticals, Life Sciences, Plastics, Engineering, Chemicals
+company - Wings Infonet Pvt Ltd
+description - It is IT solutions Provider Company. Company provides comprehensive technology solutions to Accounting, trade, payroll and Asset Management firms across the world.
+company - Hiral Tektronix Pvt Ltd
+description - Software relates to recruitment (HRMS), accounting, and Payroll.
+
+Job Responsibilities: â¢ ERP Implementation and after go live support.
+â¢ Documenting user requirements and developing specifications for customization.
+â¢ Integrating with other modules, integration testing & extending Post Go-live support, including training support to end-users.
+â¢ Drafting functional requirements for ERP systems to represent the processes and functions involved.
+â¢ Guiding the users in using various modules and the management for various functional issues.
+â¢ Delivering awareness about various reports available in ERP system for day to day transactions and for MIS reporting of departments
+System Audit for better results and follow ups for Observation.
+â¢ Developing and designing report using iReport and crystal report

@@ -1,0 +1,20 @@
+[SOURCE: Kaggle resume dataset (gauravduttakiit) | CATEGORY: Automation Testing]
+
+Technical Skills Summary I have completed "CORPORATE TRAINING in Manual and Automation Testing" at Source-Code Technology, Pune. â Manual and Automation Testing â¢ SELENIUM IDE, TestNG, SELENIUM Grid, JENKINS, Apache POI. â¢ Good knowledge in SDLC. â¢ Excellent understanding of White Box Testing and Black Box Testing. â¢ Good knowledge in Functional Testing, Integration Testing and System Testing. â¢ Good Exposure in writing Functional and Integration Scenarios. â¢ Good understanding of writing of test cases including test case design technique. â¢ Good understanding Build and release. â¢ Good knowledge on Ad hoc and smoke testing. â¢ Excellent understanding of usability, reliability and exploratory testing. â¢ Excellent knowledge of Globalization and Compatibility Testing. â¢ Excellent Understand of STLC. â¢ Good knowledge of regression and retesting. â¢ Excellent knowledge on Defect tracking and Defect Life Cycle. â¢ Good Knowledge on Test plan and Traceability Matrix. Internship Project Project Name: Resume Extractor Duration: 6 months Role: Manual And Automation Testing Environment: Jdbc, Servlets, Jsp, Technologies: Web based Application, MS Access2007 The project involved development of a web application. Resume extractor provides the technology to analyze mass volume of data to detect resume in data covered which company have into valuable information. This project is company site's based on recruitment process. Strengths â¢ Able to work in a team â¢ System and Operational Analysis â¢ Good Communication Skills â¢ Active learning and critical thinking â¢ Good interpersonal skills, willing to take challenges and more responsibilities. â¢ Ability to learn new technologies with minimal time period. Education Details 
+January 2015  BCS Computer Science  MGM's College
+ MCA  Pune, Maharashtra Computer Science fromJSPM College
+ HSC  Nanded, Maharashtra Maharashtra state board
+ SSC  Nanded, Maharashtra Maharashtra State Board
+Software testing 
+
+Software testing
+Skill Details 
+APACHE- Exprience - 6 months
+BLACK BOX- Exprience - 6 months
+BLACK BOX TESTING- Exprience - 6 months
+FUNCTIONAL TESTING- Exprience - 6 months
+INTEGRATION- Exprience - 6 monthsCompany Details 
+company - Tech Mahindra
+description - Software testing in manual and Automation
+company - 
+description - software Test engineer

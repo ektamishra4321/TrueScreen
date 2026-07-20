@@ -1,0 +1,67 @@
+[SOURCE: Kaggle resume dataset (gauravduttakiit) | CATEGORY: SAP Developer]
+
+Education Details 
+July 2008 to February 2012 BE COMPUTER SCIENCE Nagpur, Maharashtra NAGPUR UNIVERSITY
+SAP HANA Developer 
+
+SAP HANA Developer - Schlumberger
+Skill Details 
+SAP HANA- Exprience - 60 months
+SAP BO- Exprience - 36 monthsCompany Details 
+company - Schlumberger
+description - Schlumberger is the world's leading provider of technology for reservoir characterization, drilling, production, and processing to the oil and gas industry. Working in more than 85 countries.
+Role-SAP HANA Developer
+Team Size: 12
+Duration: Feb 2017 to Till Date
+Responsibilities:
+Working on Suit on HANA and Native HANA Systems.
+Working on end to end implementation for Release 2.3 and 2.4.
+Developing HANA Information Models Calculation Views, Table Functions, Procedures.
+Actively involved in cutover activities, Dry Runs Production Go live and Post Production Go Live and resolving issues.
+Worked on HANA functionalities like Currency Conversions and analyzing the Planviz for performance related issues etc.
+Worked on to bring the Tables in SAP HANA Landing zone using SDA.
+Working on to resolve the performance issues in HANA views by applying filter, joins etc.
+Interacting with the Business and functional team members, based on the discussion Creating Design Documents, Technical Specification and Test Documents.
+Successfully implemented the Release 2.2 and 2.3 for US, Ecuador and Canada.
+Successfully completed the Self-service project for Finance Domain and created Reports in Analysis of office.
+Working on to create the Power BI Reports.
+Working on to resolve production defects and Incidents by using HPALM and Remedy Tools.
+Working on to resolve the issues in an existing HANA Views.
+Working on to promote the Objects in different environment by using Charm/Solmon.
+Working on to enhance the performance of the HANA views by using PLANVIZ.
+Worked on to create the BO Reports for Vendor Master.
+ 2. Aero Space Design/Honeywell
+company - Fujitsu Consulting India
+description - Responsibilities: 
+â¢ HANA Data Model Development and Modification of Existing Models.
+â¢ Providing estimation to create the data model based on business Request.
+â¢ Creating Views- Attribute, Analytical and Calculation Views base on business requirement â¢ Creation of Design document and Technical design document.
+â¢ Brought the data into HANA Landing zone using SLT and SDA.
+â¢ Handled complex performance issues.
+â¢ Worked SAP Landscape transformation for data replication from source DB to HANA DB â¢ Solved SIT tickets on HANA Information Model.
+â¢ Developing HANA Information Models Calculation Views, Table Functions, Procedures.
+â¢ Modifying existing models to include tables, columns etc. necessary to complete the requirement.
+â¢ Configuring business objects to fetch data from HANA.
+â¢ Editing, Modifying exiting reports to fetch data from HANA as per the requirement.
+ 3. Mc Donald
+Company- Fujitsu Consulting India
+Client- MC Donald
+Role-SAP BO Developer
+Team Size: 3
+Duration: July2013to June2014
+Responsibilities: 
+â¢ Providing estimation to create the Universe and Webi Reports based on business request.
+â¢ Worked on creating the Universes on top of SAP HANA and BW Resources.
+â¢ Worked on creating the Complex Reports in webi.
+â¢ Worked on providing the Row level and Folder level security.
+â¢ Worked on Scheduling the Reports.
+
+Tools and Technology Knowledge
+SAP HANA SPS12
+SAP ECC 6.0
+SQL
+Remedy
+SharePoint
+SAP Logon
+WEBI
+Power BI

@@ -1,0 +1,40 @@
+[SOURCE: Kaggle resume dataset (gauravduttakiit) | CATEGORY: Testing]
+
+Computer Skills: â¢ Proficient in MS office (Word, Basic Excel, Power point) Strength: â¢ Hard working, Loyalty & Creativity â¢ Self-motivated, Responsible & Initiative â¢ Good people management skill & positive attitude. â¢ knowledge of windows, Internet.Education Details 
+ Bachelor of Electrical Engineering Electrical Engineering Nashik, Maharashtra Guru Gobind Singh College of Engineering and Research Centre
+ Diploma Electrical Engineering Nashik, Maharashtra S. M. E. S. Polytechnic College
+Testing Engineer 
+
+
+Skill Details 
+EXCEL- Exprience - 6 months
+MS OFFICE- Exprience - 6 months
+WORD- Exprience - 6 monthsCompany Details 
+company - 
+description - Department: Testing
+
+Responsibilities: â¢ To check ACB and VCB of  Circuit Breaker.
+â¢ Following test conducted of Circuit Breaker as per drawing.
+1. To check breaker timing.
+2. To check contact resistance using contact resistance meter (CRM) 3. To check breaker insulation resistance (IR) 4. To check breaker rack out and rack in properly or not.
+5. To check closing and tripping operation work properly or not.
+â¢ To check and following test conducted in MCC & PCC panel.
+1. Insulation Resistance (IR) test.
+2. Contact Resistance (CRM) test.
+3. To check connection on mcc & pcc panel as per drawing.
+â¢ To check and following test conducted in transformer.
+1.  Insulation Resistance (IR) test.
+2.  Transformer Ratio test.
+3. Transformer Vector Group test.
+4. Magnetic Balance test.
+5. Magnetic Current test.
+6. To check the transformer tapping remotely as well as manually 7. To check the all alarm and tripping protection command work properly
+Or not as per circuit diagram.
+ â¢ To check and test conducted in HV cables.
+1. Hi-Pot test.
+2. Insulation resistance (IR) test.
+â¢ To check the LV cables using megger (IR Test) â¢ To check the relay connections as per circuit diagram.
+Create the defects list which arising during the testing and try to find the solution to minimize the problem.
+company - TRANS POWER SOLUTIONS
+description - Lake-Site CO-Op.Soc. Adi Shankaracharya Marg,
+Opp. IIT Main Gate, Powai 400076.

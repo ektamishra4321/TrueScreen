@@ -1,0 +1,43 @@
+[SOURCE: Kaggle resume dataset (gauravduttakiit) | CATEGORY: Java Developer]
+
+TECHNICAL SKILLS Skills: Java, SQL, PL/SQL, C, C++, BootStrap, JSP, Ext JS Operating Systems: Windows Tools: Toad, Eclipse, SoapBox, Postman Databases: Oracle, MS-SQL, MS-Access, MS-ExcelEducation Details 
+January 2017 B.E. Computer Technology Gondia, MAHARASHTRA, IN Manoharbhai Patel Institute of Engineering and Technology
+ HSC  Gondia, MAHARASHTRA, IN S.M.P. Science College
+Java Developer 
+
+Java Developer - Xoriant Solutions Pvt Ltd
+Skill Details 
+Company Details 
+company - Xoriant Solutions Pvt Ltd
+description - Pune
+Period                Sept' 2017 to till date
+Role                  Java Developer
+Description           ResRent is a team responsible for the development of various
+modules for Hertz. They are responsible for the development of screens in the portfolios they look after, and act as a
+primary control function; developing webservices to ensure it can
+be hit by XML and JSON. We build various modules which are
+inbuilt in Hertz to provide interfaces for end users in their tasks.
+Tools                 Eclipse, TOAD, SoapBox, Postman
+Responsibilities      - Develop module from Backend to Middleware to Frontend.
+- Bugs fixing and proactive developing of enhancements
+- Resolve Application incidents within defined UCs & creating
+different Task ticket as well.
+- Debug and provide solution for workflow.
+- Resolving DB issues and providing technical support to BAs.
+- Keeping track of deployments and effect of same on ongoing
+jobs
+- Contribution towards automation of daily activities and process
+based organization
+- On-time, within-budget delivery meeting customers' quality
+expectations.
+- Maintain knowledge base of domain, known defects and issues,
+processes and development techniques.
+company - Xoriant Solutions Pvt Ltd
+description - Strong communication, collaboration & team building skills with proficiency at grasping
+new technical concepts quickly and utilize the same in a productive manner.
+â Experience in development in Web application.
+â Resolve project related issues in minimal time.
+â Able to communicate effectively with multifunctional teams, programmers and technical staff at all levels.
+â Good knowledge of Java, Sql, Ext JS, JSP, XML, Web services.
+â Good interpersonal & analytical skills with proven abilities in resolving the complex
+software issue.

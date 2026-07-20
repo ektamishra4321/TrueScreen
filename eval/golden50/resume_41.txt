@@ -1,0 +1,53 @@
+[SOURCE: Kaggle resume dataset (gauravduttakiit) | CATEGORY: Network Security Engineer]
+
+Skill Set â¢â¢Cisco Certified Network Associates (CCNA): - â¢ Basic knowledge of networking such as Ethernet mediums, ethernet communication, types of Ethernet communication devices etc. â¢ IPv4 (Subnetting, Supernetting) â¢ Basic configuration of Routing, Switching, Access lists, Network Address Translation (NAT), Virtual LANs (VLANs) etc â¢â¢Cisco Certified Network Associates (CCNA-Security): - â¢ Basic security goals and need. â¢ Different types of attacks like access attacks, reconnaissance strategies etc. â¢ Basic configuration of firewalls. â¢ Mitigation techniques such as access control lists, private VLANs, VLAN hopping, IP source guard, DHCP snooping, Authentication, Authorization & Accounting (AAA), IP Security (IPsec) etc. â¢â¢Cisco Certified Network Professional (CCNP-Routing, Switching & MPLS): - â¢ Routing-Configuration and concept of EIGRP, OSPF and BGP. â¢ Switching-Virtual LANs (VLANs), spanning tree protocol (STP), queuing etc. â¢ MPLS (Multi-Protocol Label Switching) -Basic idea about working, types and modes of MPLS, penultimate hopping in mpls etc. â¢â¢Cisco Certified Network Professional Security (ASA Module): - â¢ Knowledge of Control Plane Security, Management Plane Security and Data Plane Security. â¢ Knowledge of Network Telemetary (NTP, NetFlow, Logging), NAT fundamental on ASA. â¢ Firewall filtering technologies, ASA modes of deployment, ASA failover, Security context, Reputation based firewall, Identity firewall, Zone based firewall. Projects T.E. Project: Title: -Temperature Controlled Cooling Fan Academic Year: 2016-2017 (sem-5) Description: â¢ This project simply senses the temperature level and turn ON the FAN when temperature is above set limit. This project was developed with an aim to control the temperature of devices and reduce the damages of the devices because of heating. Title:- Automatic Plant Watering System Academic Year: 2016-2017 (sem-6) Description: â¢ This project simply senses the moisture level and turn ON the water pump when moisture is Education Details 
+January 2018 B.E Technology Mumbai, Maharashtra Mumbai university
+ H.S.C Mahatma Gandhi High  Maharashtra State Board
+ S.S.C. Mahatma Gandhi High  Maharashtra State Board
+    School & Junior College
+Network Security Enginner 
+
+Network Security Engineer
+Skill Details 
+Networking- Exprience - Less than 1 year months
+Subnetting,Supernetting- Exprience - Less than 1 year months
+Access Lists- Exprience - Less than 1 year months
+ACLS- Exprience - 6 months
+Network Address Translation(NAT)- Exprience - Less than 1 year months
+VLAN- Exprience - Less than 1 year months
+AAA- Exprience - Less than 1 year months
+IPSec- Exprience - Less than 1 year months
+ACCESS CONTROL LISTS- Exprience - 6 months
+DHCP Snooping- Exprience - Less than 1 year months
+Private Vlan- Exprience - Less than 1 year months
+VLAN Hopping- Exprience - Less than 1 year months
+VPN- Exprience - Less than 1 year months
+Routing protocols-RIP,EIGRP,OSPF,BGP- Exprience - Less than 1 year months
+DM-VPN- Exprience - Less than 1 year months
+Switching- Exprience - Less than 1 year months
+Control Plane Security- Exprience - Less than 1 year months
+Data Plane Security- Exprience - Less than 1 year months
+Management Plane Security- Exprience - Less than 1 year months
+Network Telemetary- Exprience - Less than 1 year months
+Firewall- Exprience - Less than 1 year months
+Firewall Filtering Technologies- Exprience - Less than 1 year months
+ASA Failovers- Exprience - Less than 1 year months
+Zone Based Firewall- Exprience - Less than 1 year months
+Reputation Based Firewall- Exprience - Less than 1 year months
+Security Context- Exprience - Less than 1 year months
+Security- Exprience - Less than 1 year monthsCompany Details 
+company - Stormfur Technologies LLP
+description - Network Security Engineer
+Stromfur Technologies LLP,
+August 2018-Present
+â¢ Troubleshoot firewall related incidents for customers.
+â¢ Solve technical problems relating to installing security solutions.
+â¢ Analyze security requirements of network system.
+â¢ Reviewed configuration and maintained Cisco ASA Firewalls, routers, and switches.
+â¢ Reviewed and modified access control lists (ACLs) on network switching and routing equipment as needed to maintain security standards.
+â¢ Participated in core network team to upgrade corporate network.
+â¢ Maintained network security technologies and services.
+â¢ Interacted with clients and analyzed operational requirements.
+â¢ Install and configured of IPSEC and SSL VPN.
+â¢ Reviewed and configured VLAN, Routing Protocols (RIP, OSPF, EIGRP), NAT.
+â¢ Support for client in various networking issues.

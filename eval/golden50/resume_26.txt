@@ -1,0 +1,43 @@
+[SOURCE: Kaggle resume dataset (gauravduttakiit) | CATEGORY: Network Security Engineer]
+
+Skill Set â¢ Experience in Implementing, and troubleshooting network security solutions â¢ Planning and Implementation knowledge of multi vendor firewalls (Cisco ASA, Checkpoint (Upto R.80) Juniper/Netscreen, Fortinet, FWSM) â¢ Familiarity with the latest hardware and network security technologies â¢ Excellent analytical and problem solving skills â¢ Skilled in analyzing and monitoring network security solutions using a variety of Monitoring solutions (Zenoss, Solarwinds, Cisco Prime) â¢ Work Experience on multi client data center environments. â¢ Knowledge and Work experience on Firewall IOS Upgrade projects â¢ Configuration of F5 load balancers, SSL certificate updates, I-Rule. F5 upgrades â¢ Configuration of Cisco Routers ( series- 1800, 1900, 2500, 2600, 2800, 3600, Nexus - 5k, 7k) â¢ Configuration of Cisco switches (series - 2960, 3750, catalyst, 4500, 3600) â¢ Working knowledge of Bluecoat Proxy â¢ Knowledge of ITIL process.Education Details 
+September 2006 to August 2011 Bachelor of Engineering (BE) Electronics Pune, Maharashtra A.I.S.S.M.S College of Engineering, University of Pune
+July 2004 to February 2006 Higher Secondary Certificate Science Pune, Maharashtra Sinhgad College, University Of Pune
+June 2003 to March 2004 secondary school certificate (SSC) science Pune, Maharashtra M.E.S Boys High School, Maharashtra, Pune
+Network and Security Engineer 
+
+Network and Security Engineer - Capita
+Skill Details 
+Network Security- Exprience - 72 months
+CHECKPOINT- Exprience - 72 months
+CISCO- Exprience - 72 months
+CISCO ASA- Exprience - 72 months
+Cisco routing and switching- Exprience - 60 months
+Loadbalncing F5- Exprience - 60 months
+security- Exprience - Less than 1 year months
+Cisco- Exprience - Less than 1 year months
+VPN- Exprience - Less than 1 year months
+LAN- Exprience - Less than 1 year months
+Networking- Exprience - Less than 1 year monthsCompany Details 
+company - Capita
+description - Work on Client Shared Network and Security infra
+â¢ Plan, Implement and troubleshoot customer requests.
+â¢ Monitor Datacenter infra 24*7
+â¢ Work as On call engineer for weekends to provide Out of office support
+company - Capgemini India Pvt. Ltd
+description - Part of UK India NOC.
+â¢ Work on Client dedicated infra.
+â¢ Undergo Client infra handover sessions to streamline client on boarding process
+â¢  Act as mentor for juniors.
+â¢ Attend Weekly CAAB calls to represent critical Changes.
+company - Sungard Availability Services
+description - Plan, Troubleshoot and Implement Client network requests
+â¢ Project Work - Internet BW upgrade/Downgrade, Decommission
+â¢ DR test planning and implementation.
+â¢ Setting up L3VPN's for customers
+company - SunGard Software Solutions
+description - Maintain Client Documentation
+â¢ Work on datacenter Remediation Project
+â¢ DNS record Management
+
+SunGard Availability Services

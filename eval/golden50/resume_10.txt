@@ -1,0 +1,21 @@
+[SOURCE: Kaggle resume dataset (gauravduttakiit) | CATEGORY: Java Developer]
+
+Skills â¢ Language: Java â¢ Operating System: Windows, Linux (CentOS 6.6) â¢ Databases: Oracle, My SQL and Derby (Embedded DB) â¢ IDE: Eclipse (Oxygen) â¢ Tools: SonarQube, Putty. Responsibilitis: â¢ Participated in requirements gathering and design development meetings. â¢ Reviewed code and debugged errors to improve performance. â¢ Coordinated with systems partners to finalize designs and confirm requirements. â¢ Consistently met deadlines and requirements for all production work orders. â¢ Collaborated with other developers to identify and alleviate the number of bugs in the software and provided maintenance and development of bug fixes and patch sets for existing applications. Education Details 
+ Bachelor of Engineering  (Computer)   Savitribai Phule Pune University
+Java Developer 
+
+Java Developer - Aurus Tech Pvt. Ltd
+Skill Details 
+JAVA- Exprience - 32 months
+LINUX- Exprience - 6 months
+Adavance Java- Exprience - Less than 1 year months
+Derby- Exprience - Less than 1 year months
+Oracle- Exprience - Less than 1 year monthsCompany Details 
+company - Aurus Tech Pvt. Ltd
+description - Having 2 years of experience in working with a Payment Gateway Solutions provider with Core Java. Hardworking Java Developer enthusiastic about working with multicultural teams.
+company - Aurus Tech Pvt Ltd.
+description - â¢ Participated in requirements gathering and design development meetings.
+â¢ Reviewed code and debugged errors to improve performance.
+â¢ Coordinated with systems partners to finalize designs and confirm requirements.
+â¢ Consistently met deadlines and requirements for all production work orders.
+â¢ Â Collaborated with other developers to identify and alleviate the number of bugs in the software and provided continued maintenance and development of bug fixes and patch sets for existing applications.
