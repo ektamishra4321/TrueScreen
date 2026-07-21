@@ -1,4 +1,6 @@
 # TrueScreen — Evidence-Grounded Hiring Screener + Eval Harness
+![CI](https://github.com/ektamishra4321/truescreen/actions/workflows/ci.yml/badge.svg)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 
 **TrueScreen scores honestly or not at all.** Resumes are scored against a
 JD-derived rubric where **every score must cite verbatim evidence from the
@@ -41,7 +43,7 @@ rubric.json ──────────────────────�
   ListModels (no hardcoded model names to rot), thinkingBudget auto-retry,
   fence-tolerant JSON parsing, JSONL telemetry.
 
-## Measured baseline (real Kaggle resumes, human golden labels)
+## Measured baseline — pilot, n=8 (real Kaggle resumes, human golden labels)
 | metric | value |
 |---|---|
 | within-1 agreement | 62.5% |
@@ -49,9 +51,18 @@ rubric.json ──────────────────────�
 | MAE | 1.125 |
 | abstention rate | 20% |
 
-**Finding:** the LLM judge compresses scores toward 3 — it detects the
+**n=8 is a pilot, not a claim.** These numbers exist to prove the harness runs
+end-to-end on real resumes; they are too small to be statistically meaningful.
+
+**Finding (pilot):** the LLM judge compresses scores toward 3 — it detects the
 *presence* of evidence but under-weighs its *strength* (a 15-year career and a
 one-line mention both scored 3). Calibrated anchor examples are the v2 fix.
+
+**Eval in progress:** a 50-resume golden set (`eval/golden50/`) is committed
+against a frozen rubric (`eval/frozen_rubric.json`, RUBRIC v1.1). Headline
+metric will be mean quadratic-weighted Cohen's kappa across criteria plus
+within-1 % (`eval/metrics_kappa.py`). Repo rule: numbers appear here only once
+a single command reproduces them.
 
 ## Quickstart
 ```
