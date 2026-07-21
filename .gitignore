@@ -7,3 +7,4 @@ data/resumes/*.pdf
 .pytest_cache/
 *.csv
 read_*.txt
+!eval/golden_labels_50.csv
